@@ -58,4 +58,6 @@ Il est également possible d'utiliser son propre modèle:
 python test_specific_model.py --image_path path/to/image.jpg --model_name model
 ``` 
 
+### License 
 
+Copyright © Niantic, Inc. 2019. Patent Pending. All rights reserved. Please see the license file for terms.
