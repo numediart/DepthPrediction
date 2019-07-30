@@ -53,11 +53,6 @@ python test_simple.py --image_path path/to/image.jpg --model_name model
 ```
 La liste des noms de tous les modèles compatibles avec ce script est disponible sur le [dépôt officiel](https://github.com/nianticlabs/monodepth2/#%EF%B8%8F-prediction-for-a-single-image).
 
-Il est également possible d'utiliser son propre modèle:
-```shell 
-python test_specific_model.py --image_path path/to/image.jpg --model_name model
-``` 
-
 ### License 
 
 Copyright © Niantic, Inc. 2019. Patent Pending. All rights reserved. Please see the license file for terms.
